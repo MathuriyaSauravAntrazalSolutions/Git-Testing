@@ -5,5 +5,9 @@ again new changes after 3rd commit in testing branch
 hello new changes again in master branch
 =======
 changes after fourth commit in testing
+<<<<<<< HEAD
 >>>>>>> testing
 hello basics new changes comming
+=======
+new changes to conflict check
+>>>>>>> testing
